@@ -1,7 +1,3 @@
-Here is a **GitHub README-style write-up** for your **Weather Web App**, perfectly matching the visual and formatting style of your Library Management System’s README (as shown in the image):
-
----
-
 # 🌦️ Weather Web App
 
 ## 🚀 Project Overview
@@ -70,18 +66,20 @@ Proud to present my **Weather Web App**, a modern and responsive web application
 
 ⚠️ **Important Notes**
 All Rights Reserved © 2025 | *Sahil*
+
 This project is built for educational purposes only.
+
 🔒 No reuse or redistribution of source code without explicit permission.
+
 📩 Contact: [sahilmarwal81@gmail.com](mailto:sahilmarwal81@gmail.com)
 
----
 
 📌 **Why This Project Matters**
 ✅ Demonstrates REST API integration
+
 ✅ Combines frontend, backend & UI logic
+
 ✅ Fully functional real-world weather tracker
+
 ✅ Great practice for Java EE (JSP + Servlet)
 
----
-
-Let me know if you'd like the same in **Markdown (.md)** format or want it embedded in your GitHub repo directly!
